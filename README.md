@@ -5,3 +5,4 @@ The codes in this repository cover a variety of topics and may include solutions
 
 ## Includes
 * [Basic http server using (net/http) module](./1_basic_go_server)
+* [Crud api server using (gorilla/mux)](./2_crud_api_server)
